@@ -1,0 +1,71 @@
+<div class="container">
+
+<h1>❤️ Happy 21st Birthday Nayana ❤️</h1>
+
+<h2>To My Love 💖</h2>
+
+<p>
+
+Today isn't just another birthday...
+
+It's the day the most beautiful soul entered this world.
+
+And somehow, against all odds, life chose to let our paths cross.
+
+<br><br>
+
+<b>My Love,</b>
+
+thank you for every smile, every laugh, every late-night conversation,
+every little moment that became one of my favorite memories.
+
+<br><br>
+
+<b>
+"The greatest gift you've given me wasn't your love;
+it was introducing me to a version of myself I had never met."
+</b>
+
+<br><br>
+
+Before you,
+I never knew I could become someone so patient,
+so hopeful,
+so determined,
+and so genuinely happy.
+
+You didn't just love me...
+
+You helped me discover who I could be.
+
+<br><br>
+
+My love,
+
+I hope this new chapter of your life brings you endless happiness,
+good health,
+beautiful adventures,
+and every dream you've ever wished for.
+
+I promise to stand beside you,
+celebrate every victory,
+hold your hand through every challenge,
+and make countless more memories together.
+
+<br><br>
+
+Happy 21st Birthday, My Love.
+
+May today remind you how deeply you are loved,
+how incredibly special you are,
+and how grateful I am that you exist.
+
+❤️ Forever Yours ❤️
+
+</p>
+
+<button onclick="celebrate()">
+🎉 Celebrate My Love 🎉
+</button>
+
+</div>
